@@ -1,24 +1,18 @@
-# Project Title
+# Projeto Tabela Futebol
 
-One Paragraph of project description goes here
+O projeto foi baseado na criação de tabelas de campeonatos da fifa usando o programa heidiSql para o gerenciamento do banco de dados.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+Ter instalado o heidiSq,além de ter o xamp ou wampserver.
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Para abrir tal projeto é necessario ativar o xamp ou o wamp e abrir o banco de danos no programa HeidiSql como root e importar.
 
 ```
 Give the example
