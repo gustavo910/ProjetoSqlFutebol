@@ -1,4 +1,4 @@
-# Projeto Tabela Futebol
+# football database
 
 The project was based on the creation of FIFA championship tables using the heidiSql program to manage the database.
 
