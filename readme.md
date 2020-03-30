@@ -14,7 +14,7 @@
 To open such a project it is necessary to activate xamp or wamp and open the damage database in the HeidiSql program as root and import the sql file or enter the query bar, paste the sql file and run it
 
 &nbsp;
-<h2 id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><strong><span lang="en">how to use and execute routines?</span></strong></h2>
+<h2 id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><strong><span lang="en">How to use and execute routines?</span></strong></h2>
 Right click on the routine and select "run routine" in sequence will ask for your search parameter.
 
 Example: run the buscaTime routine and set it to "barcelona" as parameter, so the data of the club entered will appear.
