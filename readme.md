@@ -30,9 +30,10 @@ Example: run the buscaTime routine and set it to "barcelona" as parameter, so th
 &nbsp;
 <h2>What is the trigger for in that database?<img class="alignleft" src="https://cdn.icon-icons.com/icons2/931/PNG/512/settings_icon-icons.com_72415.png" alt="ícone Ferramenta, ferramentas, configurações Livre de Mini Icon ..." width="58" height="58" /></h2>
 <strong>Trigger delete_time:</strong> 
-when you delete a team you will delete all players from that team on the table
+when you delete a team you will delete all players from that team on the table.
 
 <strong>Trigger SG:</strong>
-will make the goal difference of the team in real time. That is when inserting a team will make the goals scored-goals conceded = goal difference
+will make the goal difference of the team in real time. That is when inserting a team will make the goals scored-goals conceded = goal difference.
+
 <strong>Trigger Suspenções:</strong>
 when the user updates 3 yellow cards or 1 red card he will increase a suspension for that player.
