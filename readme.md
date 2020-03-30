@@ -34,6 +34,5 @@ when you delete a team you will delete all players from that team on the table
 
 <strong>Trigger SG:</strong>
 will make the goal difference of the team in real time. That is when inserting a team will make the goals scored-goals conceded = goal difference
-
 <strong>Trigger Suspenções:</strong>
 when the user updates 3 yellow cards or 1 red card he will increase a suspension for that player.
